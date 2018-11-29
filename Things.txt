@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/azure/app-service/containers/how-to-configure-python#container-startup-process-and-customizations
+https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-python
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/docker-machine
